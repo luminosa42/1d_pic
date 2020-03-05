@@ -1,2 +1,3 @@
 # PIC_burgers
-Scripts for several common computational physics problems and numerical methods
+
+1D particle-in-cell code to solve Burger's equation
